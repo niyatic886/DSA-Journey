@@ -1,3 +1,5 @@
+// X star pattern
+
 let prompt = require('prompt-sync')();
 
  let n = Number(prompt("Enter the number: "));
